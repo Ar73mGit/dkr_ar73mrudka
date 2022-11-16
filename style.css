@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap" rel="stylesheet">
+body{
+   font-family: 'Muli', sans-serif;
+background-color: #B4D6CB;
+}
+#par1 {
+  background-color: tomato;
+  color: powderblue;
+  font-family: 'Quicksand', sans-serif;
+}
+h1{
+   font-family: 'Muli', sans-serif;
+	text-align:center;
+  	border: 1px solid black;
+}
+h2{
+   font-family: 'Muli', sans-serif;
+	text-align:center;
+  border: 1px solid black;
+}
+#table {
+  background-color: #8BB6B8;
+  color: #B8908B;
+  font-family: 'Quicksand', sans-serif;
+}
+#subtable{
+  font-family: 'Oswald',sans-serif;
+color:#B88BA4;
+}
+h3{
+   font-family: 'Muli', sans-serif;
+  border: 1px solid black;
+}
+#table1{
+font-family: 'Quicksand', sans-serif;
+}
+
+
+          
